@@ -1,0 +1,6 @@
+{"mainfile":"index.android.js",
+"compilemenucommand":"chmod 777 ./.compile.sh && ./.compile.sh",
+"runmenucommand":"chmod 777 ./.runfile.sh && ./.runfile.sh",
+"previewApp":true,
+"emberParams":"device=nexus5&scale=75&orientation=portrait&osVersion=8.1&centered=true&autoplay=true"
+}
