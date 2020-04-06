@@ -1,4 +1,4 @@
-{"mainfile":"index.android.js",
+{"mainfile":"index.js",
 "compilemenucommand":"chmod 777 ./.compile.sh && ./.compile.sh",
 "runmenucommand":"chmod 777 ./.runfile.sh && ./.runfile.sh",
 "previewApp":true,
