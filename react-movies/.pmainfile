@@ -2,5 +2,8 @@
 "compilemenucommand":"chmod 777 ./.compile.sh && ./.compile.sh",
 "runmenucommand":"chmod 777 ./.runfile.sh && ./.runfile.sh",
 "previewApp":true,
-"emberParams":"device=nexus5&scale=75&orientation=portrait&osVersion=8.1&centered=true&autoplay=true"
+"viewtype":"browser",
+"outputtype":"web",
+"appEmbedUrl":"https://www.skillstack.com/widgets/",
+"emberParams":"device=nexus5&scale=75&orientation=portrait&osVersion=13.3&centered=true&autoplay=true"
 }
