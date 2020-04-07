@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "88270063662",
+    "firebase_url": "https://sampleapp-3d1d7.firebaseio.com",
+    "project_id": "sampleapp-3d1d7",
+    "storage_bucket": "sampleapp-3d1d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88270063662:android:9bd781acb76bdc6f82f7bf",
+        "android_client_info": {
+          "package_name": "com.rnmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88270063662-itl0bsdme227dka7qllpbgbr559fp6b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQilTbwgQg1qLUQ2gIy2Q0MPEg5S1FeuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88270063662-itl0bsdme227dka7qllpbgbr559fp6b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
