@@ -27,7 +27,7 @@ GoogleService-Info.plist
 .gradle
 local.properties
 *.iml
-google-services.json
+
 
 # node.js
 #
